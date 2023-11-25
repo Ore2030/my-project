@@ -30,7 +30,7 @@ const Portfolio = () => {
               <h3>Software Design Company Website</h3>
               <div className="portfolio__item-cta">
               <a href="" className='btn' target='_blank'>Github</a>
-              <a href="https://fritz000.github.io/Prodigy-Pro-System-Software/prodigy%20software%20pro/contact.htmls" className='btn btn-primary' target='_blank'>Live Demo</a>
+              <a href="https://fritz000.github.io/Prodigy-Pro-System-Software/prodigy%20software%20pro/contact.html" className='btn btn-primary' target='_blank'>Live Demo</a>
               </div>
         </article>
 

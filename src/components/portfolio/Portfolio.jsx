@@ -18,8 +18,8 @@ const Portfolio = () => {
               </div>
               <h3>UI/UX design transformation to a single webpage design</h3>
               <div className="portfolio__item-cta">
-              <a href="https://github.com" className='btn' target='_blank'>Github</a>
-              <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+              <a href="" className='btn' target='_blank'>Github</a>
+              <a href="https://ore2030.github.io/project/" className='btn btn-primary' target='_blank'>Live Demo</a>
               </div>
         </article>
 
@@ -29,8 +29,8 @@ const Portfolio = () => {
             </div>
               <h3>Software Design Company Website</h3>
               <div className="portfolio__item-cta">
-              <a href="https://github.com" className='btn' target='_blank'>Github</a>
-              <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+              <a href="" className='btn' target='_blank'>Github</a>
+              <a href="https://fritz000.github.io/Prodigy-Pro-System-Software/prodigy%20software%20pro/contact.htmls" className='btn btn-primary' target='_blank'>Live Demo</a>
               </div>
         </article>
 
@@ -40,8 +40,8 @@ const Portfolio = () => {
             </div>
               <h3>A fitness Website</h3>
               <div className="portfolio__item-cta">
-              <a href="https://github.com" className='btn' target='_blank'>Github</a>
-              <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+              <a href="" className='btn' target='_blank'>Github</a>
+              <a href="https://ore2030.github.io/project2/" className='btn btn-primary' target='_blank'>Live Demo</a>
               </div>
         </article>
       </div>
